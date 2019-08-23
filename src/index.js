@@ -4,10 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
-<<<<<<< HEAD
+
 import 'bootstrap/dist/css/bootstrap.css';
-=======
->>>>>>> 95bf2ef346ad5bdaecbe06f7be88656cd020744e
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
